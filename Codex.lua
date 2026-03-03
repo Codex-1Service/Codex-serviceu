@@ -6,9 +6,9 @@ local loadstring, game, getgenv, setclipboard = loadstring, game, getgenv, setcl
 
 if getgenv().Aimbot then return end
 
---// Load Aimbot V2 (Raw)
+--// Load Codex Service (Raw)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V2/main/Resources/Scripts/Raw%20Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Codex-1Service/Codex-serviceu/main/Codex.lua"))()
 
 --// Variables
 
